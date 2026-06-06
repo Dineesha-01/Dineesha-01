@@ -26,10 +26,6 @@
 - Patterns
 - Recursion
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Dineesha-01&show_icons=true)
-
 ## Streak Stats
 
 ![Streak](https://streak-stats.demolab.com?user=Dineesha-01)
