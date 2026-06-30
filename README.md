@@ -1,85 +1,91 @@
 <h1 align="center">Hi 👋, I'm Dineesha</h1>
 <h3 align="center">B.Tech Student | Java Developer | Problem Solver</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dineesha-01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 👩‍💻 About Me
 
-I am a passionate B.Tech student with a strong interest in software development, problem-solving, and building practical applications. I enjoy learning new technologies and continuously improving my programming skills through hands-on projects and coding practice.
+I am a passionate and dedicated B.Tech student with a strong interest in software development, problem-solving, and building real-world applications. I enjoy learning new technologies and continuously improving my programming skills through hands-on projects and coding practice.
 
-Currently, I am focusing on strengthening my understanding of Data Structures and Algorithms while exploring Full Stack Development and Backend technologies. My goal is to become a skilled software engineer capable of designing efficient and scalable applications.
+Currently, I am focusing on strengthening my knowledge in Data Structures and Algorithms while exploring Backend Development and Full Stack technologies. I believe in continuous learning, consistency, and building projects that solve practical problems.
 
 - 🎓 Pursuing B.Tech
-- 💻 Passionate about Java Programming
+- 💻 Passionate about Java Development
 - 🌱 Currently learning Spring Boot, DSA, and Backend Development
-- 🚀 Interested in Software Development and Problem Solving
-- 📚 Believe in continuous learning and self-improvement
+- 🚀 Interested in Software Engineering and Problem Solving
+- 📚 Always eager to learn new technologies and improve my skills
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- Java
-- C
-- SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c" />
+</p>
 
 ### Web Technologies
-- HTML
-- CSS
-- JavaScript (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- MySQL
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+### Frameworks & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react" />
+</p>
 
 ---
 
 ## 📚 Areas of Interest
 
-I enjoy solving problems and working on various areas of computer science, including:
+I enjoy exploring various domains in computer science and continuously improving my problem-solving abilities.
 
-- Data Structures
-- Algorithms
-- Arrays
-- Strings
-- Sorting Algorithms
-- Searching Algorithms
-- Recursion
-- Pattern Programming
-- Database Management Systems
+- Data Structures and Algorithms
 - Object-Oriented Programming
+- Database Management Systems
+- Backend Development
+- Full Stack Development
+- Software Engineering
+- Problem Solving
+- System Design Fundamentals
 
 ---
 
 ## 🌱 Currently Learning
 
-I am currently expanding my knowledge in the following areas:
+At present, I am actively learning and practicing:
 
 - Advanced Data Structures and Algorithms
 - Spring Boot Framework
-- Backend Development
-- REST APIs
-- Database Design
-- Full Stack Development
-- System Design Fundamentals
+- REST API Development
+- Backend Architecture
+- Full Stack Web Development
+- Database Design and Optimization
+- System Design Basics
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### SmartTrip – Intelligent Travel Recommendation System
+### ✈️ SmartTrip – Intelligent Travel Recommendation System
 
-SmartTrip is a full-stack application designed to simplify travel planning. Users can enter their travel preferences and receive personalized recommendations for destinations, transportation, hotels, and restaurants.
+SmartTrip is a full-stack travel recommendation platform designed to simplify travel planning. Users can provide their travel preferences and receive personalized recommendations for destinations, transportation, hotels, and restaurants.
 
-**Key Features:**
-- Personalized travel recommendations
-- Bus, train, and flight comparisons
+**Features:**
+- Personalized destination recommendations
+- Bus, train, and flight comparison
 - Hotel and restaurant suggestions
+- Cost estimation and comparison
 - User-friendly interface
-- Cost comparison features
 
 **Technologies Used:**
 - React.js
@@ -89,65 +95,102 @@ SmartTrip is a full-stack application designed to simplify travel planning. User
 
 ---
 
-### Java Programming Collection
+### ☕ Java Programming Collection
 
-This repository contains various Java programs and coding problems for learning and practice purposes.
+A repository containing various Java programs and coding problems created for learning and practice purposes.
 
-Topics covered include:
+**Topics Covered:**
 - Arrays
 - Strings
-- Searching
-- Sorting
+- Searching Algorithms
+- Sorting Algorithms
 - Recursion
-- Pattern Problems
+- Pattern Programming
 - Object-Oriented Programming
+- Basic Data Structures
 
 ---
 
-### Spring Boot CRUD Application
+### 🌱 Spring Boot CRUD Application
 
-A backend application developed using Spring Boot that performs CRUD operations and demonstrates REST API development.
+A backend application developed using Spring Boot that demonstrates CRUD operations, REST API development, and database connectivity.
 
 **Features:**
 - Create, Read, Update, Delete operations
-- Database connectivity
-- REST API implementation
+- RESTful APIs
+- MySQL database integration
 - Layered architecture
+- Exception handling
+
+---
+
+## 💻 Coding Practice
+
+I regularly practice coding problems to improve my problem-solving and analytical skills. My primary areas of practice include:
+
+- Arrays
+- Strings
+- Trees
+- Graphs
+- Recursion
+- Dynamic Programming
+- Divide and Conquer
+- Searching and Sorting Algorithms
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dineesha-01&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dineesha-01&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineesha-01&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Dineesha-01&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineesha-01&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🎯 Career Objective
 
-My objective is to build a strong foundation in software engineering by continuously improving my problem-solving abilities, learning modern technologies, and developing real-world applications that create value for users.
+My goal is to build a strong foundation in software engineering by continuously improving my programming skills, mastering problem-solving techniques, and developing scalable applications. I aspire to work as a Software Engineer where I can contribute to impactful projects while growing both technically and professionally.
 
-I aspire to work as a Software Engineer where I can contribute to impactful projects while growing both technically and professionally.
+---
+
+## 🏆 Achievements
+
+- Solved numerous coding problems across various platforms.
+- Developed multiple academic and personal projects.
+- Continuously learning modern software development technologies.
+- Actively improving problem-solving and programming skills.
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/Dineesha-01
-- LinkedIn: Add your LinkedIn profile here
-- Email: Add your email here
+<p align="left">
+<a href="https://github.com/Dineesha-01">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<!-- Replace with your LinkedIn URL -->
+<a href="https://linkedin.com/in/your-linkedin-profile">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+- 📧 Email: dineesha551@gmai;.com
+- 💼 LinkedIn: https://www.linkedin.com/in/dineesha-brungi-11505632a
+- 💻 GitHub: https://github.com/Dineesha-01
 
 ---
 
 ## 💭 Personal Motto
 
-> "Code. Learn. Build. Improve. Repeat."
+> "Success doesn't come from what you do occasionally. It comes from what you do consistently."
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
