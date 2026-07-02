@@ -139,17 +139,6 @@ I regularly practice coding problems to improve my problem-solving and analytica
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dineesha-01&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineesha-01&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🎯 Career Objective
 
@@ -179,7 +168,7 @@ My goal is to build a strong foundation in software engineering by continuously 
 </a>
 </p>
 
-- 📧 Email: dineesha551@gmai;.com
+- 📧 Email: dineesha551@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/dineesha-brungi-11505632a
 - 💻 GitHub: https://github.com/Dineesha-01
 
